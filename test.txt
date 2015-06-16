@@ -1,0 +1,8 @@
+     Running target/release/loop-e708169e6ef8cf8e
+
+running 2 tests
+test bench_for   ... bench:   2642091 ns/iter (+/- 16262)
+test bench_while ... bench:   1512510 ns/iter (+/- 6485)
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 2 measured
+
